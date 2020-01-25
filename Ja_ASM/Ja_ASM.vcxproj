@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{95FDBE01-E347-46E3-8B07-F57582FDB501}</ProjectGuid>
-    <RootNamespace>Troy</RootNamespace>
+    <RootNamespace>Ja_ASM</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Ja_ASM</ProjectName>
   </PropertyGroup>
