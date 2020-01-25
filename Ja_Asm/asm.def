@@ -1,0 +1,4 @@
+LIBRARY Troy
+EXPORTS
+GetValueFromASM
+MyProc1
